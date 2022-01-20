@@ -8,7 +8,7 @@ public class Computer {
         int min = 1;
         int max = 3;
         Random random = new Random();
-         int value = random.nextInt(max) + min;
+         int value = random.nextInt(max + min) + min;
          computerHand = value;
 
         return computerHand;
