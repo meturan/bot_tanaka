@@ -1,8 +1,8 @@
 public class GameMain {
     public static void main(String[] args) {
         //課題1 文章の表示
-        System.out.println("1:グー 2:チョキ 3:パー");
-        System.out.println("じゃんけん...");
+        Sysyem.out.println("1:グー 2:チョキ 3:パー");
+        Sysyem.out.println("じゃんけん...");
 
         //課題2 Playerの手の決定とその表示
         //PlayerクラスのdecidesPlayerHandメソッドとHandクラスのgetHandNameメソッドを使ってPlayerの手を表示する
